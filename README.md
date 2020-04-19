@@ -23,8 +23,9 @@
 * 각종 세미나 및 컨퍼런스 참여 지원
 
 ### 기술 스택
+* React/React-Native, Typescript
 * JAVA/jsp, Javascript
-* UNIX/Linux
+* Spring/Spring-Boot
 
 ### 협업 툴
 * Slack, JIRA, Asana, Zeplin
@@ -32,8 +33,8 @@
 ## 개발자 공통 요건
 
 ### 자격요건
-* 개발경력 3년이상 
-* 금융(은행/카드/증권/생명) 경력자
+* React/React-Native 개발경력 3년이상 
+* 금융(은행/카드/증권/생명) SI 경력 3년이상
 
 ### 우대사항
 * Github/Slack/Jira/AWS 유경험자
