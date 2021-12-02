@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/38146144/74117217-49c86b00-4bfa-11ea-8989-d4bfc7d00215.png"></img> 주식회사 두베 기술연구소 인재채용
+# <img src="https://user-images.githubusercontent.com/38146144/74117217-49c86b00-4bfa-11ea-8989-d4bfc7d00215.png"></img> 주식회사 두베 / 기술연구소 인재채용
 
 ## 모집공고 (상시)
 <p>
