@@ -39,7 +39,6 @@
 ### 우대사항
 * Flutter / React-Native / React / Vue 유경험자 우대 
 * 네이티브 개발자(Android/iOS) 우대
-* 전산/컴퓨터공학 전공자 우대
-* AA/TA 우대
 * 정보보안 전문가 우대
+* 전산/컴퓨터공학 전공자 우대
 
