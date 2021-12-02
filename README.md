@@ -5,12 +5,14 @@
 
 | 팀          | 파트 소개                                  | 모집 공고                                               |
 | ----------- | --------------------------------------- | ----------------------------------------------------- |
-| 인프라기술팀   | 프론트엔드 개발자                            | Flutter / React-Native / React / Vue                  |
-|             | 백엔드 개발자                               | Linux(Ubuntu/CentOS/RedHat), Spring/Spring-Boot, AWS |
+| 응용개발팀     | 프론트엔드 개발자                            | Flutter / React-Native / React / Vue                  |
+|             | 백엔드 개발자                               | Spring/Spring-Boot, AWS |
+| ----------- | --------------------------------------- | ----------------------------------------------------- |
+| 보안기술팀     | 시스템 개발자                               | Linux(Ubuntu/CentOS/RedHat), Network, Security         |
 </p> 
 
 ## 소개
-* 주식회사 두베에서 크로스플랫폼 개발자를 채용합니다. 
+* 주식회사 두베에서 소프트웨어 개발자를 채용합니다. 
 * 트렌디한 개발을 꿈꾸시는 분들의 많은 참여 바랍니다.
 
 ### 채용절차
@@ -28,6 +30,7 @@
 * Spring/Spring-Boot, Typescript
 * Circle CI, Travis CI, DevOpts
 * Linux(ubuntu/centos/redhat), AWS, git
+* Network / Security
 
 ### 협업 툴
 * Slack, JIRA, Asana, Zeplin
