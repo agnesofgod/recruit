@@ -11,10 +11,10 @@
 
 ### 채용절차
 * 서류 심사 > 부서장 면접 > 최종 면접
-* 경력증명서및 포트폴리오는 자유형식으로 작성후 채용담당자(thlee@do-best.co.kr)에게 제출
+* 경력증명서및 포트폴리오는 자유형식으로 작성후 채용담당자(thlee@do-best.co.kr / nixstory@gmail.com)에게 제출
 
 ## 소개
-* 주식회사 두베에서 크로스플랫폼 개발자를 채용합니다.
+* 주식회사 두베에서 크로스플랫폼 개발자를 채용합니다. 
 * 트렌드한 개발을 꿈꾸시는 분들의 많은 참여 바랍니다.
 
 
@@ -25,9 +25,10 @@
 * 재택근무 가능 
 
 ### 기술 스택
-* Flutter, React/React-Native, Vue
+* Flutter, React-Native, React, Vue
 * Spring/Spring-Boot, Typescript
 * Circle CI, Travis CI, DevOpts
+* linux(ubuntu/centos), git
 
 ### 협업 툴
 * Slack, JIRA, Asana, Zeplin
@@ -36,5 +37,6 @@
 
 ### 우대사항
 * Flutter / React-Native / React / Vue 유경험자 우대 
+* 네이티브 개발자(Android/iOS) 우대
 * 전산/컴퓨터공학 전공자 우대
 * AA/TA 우대
