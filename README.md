@@ -1,9 +1,5 @@
 # <img src="https://user-images.githubusercontent.com/38146144/74117217-49c86b00-4bfa-11ea-8989-d4bfc7d00215.png"></img> 기술연구소 인재채용
 
-## 소개
-* 주식회사 두베에서 크로스플랫폼 개발자를 채용합니다. 
-* 트렌디한 개발을 꿈꾸시는 분들의 많은 참여 바랍니다.
-
 ## 모집공고 (상시)
 <p>
 
@@ -12,6 +8,10 @@
 | 인프라기술팀   | 프론트엔드 개발자                            | Flutter/React-Native/React/Vue 경력자                  |
 |             | 백엔드 개발자                               | Spring/Spring-Boot, AWS, Google Cloud Platform 경력자 |
 </p> 
+
+## 소개
+* 주식회사 두베에서 크로스플랫폼 개발자를 채용합니다. 
+* 트렌디한 개발을 꿈꾸시는 분들의 많은 참여 바랍니다.
 
 ### 채용절차
 * 서류 심사 > 부서장 면접 > 최종 면접
