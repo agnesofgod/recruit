@@ -28,7 +28,7 @@
 * Flutter, React-Native, React, Vue
 * Spring/Spring-Boot, Typescript
 * Circle CI, Travis CI, DevOpts
-* Linux(ubuntu/centos/redhat), AWS, git
+* Linux(ubuntu/centos/redhat), AWS, Firebase
 * Network / Security
 
 ### 협업 툴
