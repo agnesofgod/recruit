@@ -5,9 +5,9 @@
 
 | 팀          | 파트 소개                                  | 모집 공고                                               |
 | ----------- | --------------------------------------- | ----------------------------------------------------- |
-| 기반기술팀     | 프론트엔드 개발자                            | Flutter / React-Native / React / Vue                  |
-|             | 백엔드 개발자                               | Linux(Ubuntu/CentOS/RedHat), AWS, Spring/Spring-Boot |
-| 보안기술팀     | 시스템 개발자                               | O/S, Network, Security         |
+| 응용개발팀     | 프론트엔드 개발자                            | Flutter / React-Native / React / Vue     |
+|             | 백엔드 개발자                               | Spring(Spring-Boot) / JAVA/JSP |
+| 기반기술팀     | 시스템 개발자                               | Linux(Ubuntu/RedHat) / AWS / DevOps/ Jenkins / Git |
 </p> 
 
 ## 소개
@@ -16,7 +16,7 @@
 
 ### 채용절차
 * 서류 심사 > 부서장 면접 > 최종 면접
-* 경력증명서및 포트폴리오는 자유형식으로 작성후 채용담당자(thlee@do-best.co.kr / nixstory@gmail.com)에게 제출
+* 경력증명서및 포트폴리오는 자유형식으로 작성후 채용담당자(nixstory@gmail.com)에게 제출
 
 ### 업무 환경 및 복지
 * 오전 9시 30분 출근 ~ 오후 6시 30분 퇴근
@@ -27,10 +27,9 @@
 ### 기술 스택
 * Flutter, React-Native, React, Vue
 * Java/Kotlin, Swift/Objective-C, TypeScript
-* Spring/Spring-Boot, Git
-* Circle CI, Travis CI, Jenkins, DevOps
-* Linux(Ubuntu/CentOS/RedHat), AWS, Firebase
-* O/S(운영체제), Network, Security
+* Spring/Spring-Boot, JAVA/JSP, Javascript
+* Circle CI, Travis CI, Jenkins, DevOps, Git
+* Linux(Ubuntu/RedHat), AWS, Firebase
 
 ### 협업 툴
 * Slack, JIRA, Asana, Zeplin
