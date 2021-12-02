@@ -29,7 +29,7 @@
 * Java/Kotlin, Swift/Objective-C, TypeScript
 * Spring/Spring-Boot, Git
 * Circle CI, Travis CI, Jenkins, DevOps
-* Linux(ubuntu/centos/redhat), AWS, Firebase
+* Linux(Ubuntu/CentOS/RedHat), AWS, Firebase
 * O/S(운영체제), Network, Security
 
 ### 협업 툴
