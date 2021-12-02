@@ -28,7 +28,7 @@
 * Flutter, React-Native, React, Vue
 * Spring/Spring-Boot, Typescript
 * Circle CI, Travis CI, DevOpts
-* linux(ubuntu/centos), git
+* Linux(ubuntu/centos/redhat), AWS, git
 
 ### 협업 툴
 * Slack, JIRA, Asana, Zeplin
