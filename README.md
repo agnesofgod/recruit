@@ -5,7 +5,7 @@
 
 | 팀          | 파트 소개                                  | 모집 공고                                               |
 | ----------- | --------------------------------------- | ----------------------------------------------------- |
-| 인프라기술팀     | 프론트엔드 개발자                            | Flutter / React-Native / React / Vue                  |
+| 기반기술팀     | 프론트엔드 개발자                            | Flutter / React-Native / React / Vue                  |
 |             | 백엔드 개발자                               | Spring/Spring-Boot, AWS |
 | 보안기술팀     | 시스템 개발자                               | Linux(Ubuntu/CentOS/RedHat), Network, Security         |
 </p> 
