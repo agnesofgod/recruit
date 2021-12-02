@@ -5,8 +5,8 @@
 
 | 팀          | 파트 소개                                  | 모집 공고                                               |
 | ----------- | --------------------------------------- | ----------------------------------------------------- |
-| 인프라기술팀   | 프론트엔드 개발자                            | Flutter/React-Native/React/Vue 경력자                  |
-|             | 백엔드 개발자                               | Linux(Ubuntu/CentOS/RedHat), Spring/Spring-Boot, AWS, Google Cloud Platform 경력자 |
+| 인프라기술팀   | 프론트엔드 개발자                            | Flutter/React-Native/React/Vue                  |
+|             | 백엔드 개발자                               | Linux(Ubuntu/CentOS/RedHat), Spring/Spring-Boot, AWS |
 </p> 
 
 ## 소개
