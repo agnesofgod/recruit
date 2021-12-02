@@ -7,7 +7,7 @@
 | ----------- | --------------------------------------- | ----------------------------------------------------- |
 | 기반기술팀     | 프론트엔드 개발자                            | Flutter / React-Native / React / Vue                  |
 |             | 백엔드 개발자                               | Linux(Ubuntu/CentOS/RedHat), AWS, Spring/Spring-Boot |
-| 보안기술팀     | 시스템 개발자                               | Network, Security         |
+| 보안기술팀     | 시스템 개발자                               | O/S, Network, Security         |
 </p> 
 
 ## 소개
@@ -30,7 +30,7 @@
 * Spring/Spring-Boot, Git
 * Circle CI, Travis CI, Jenkins, DevOps
 * Linux(ubuntu/centos/redhat), AWS, Firebase
-* Network / Security
+* O/S(운영체제), Network, Security
 
 ### 협업 툴
 * Slack, JIRA, Asana, Zeplin
