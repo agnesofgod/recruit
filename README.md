@@ -7,7 +7,7 @@
 | ----------- | --------------------------------------- | ----------------------------------------------------- |
 | 응용개발팀     | 프론트엔드 개발자                            | Flutter / React-Native / React / Vue     |
 |             | 백엔드 개발자                               | Spring(Spring-Boot) / JAVA/JSP |
-| 기반기술팀     | 시스템 개발자                               | Linux(Ubuntu/RedHat) / AWS / DevOps/ Jenkins / Git |
+| 기반기술팀     | 시스템 개발자                               | Linux(Ubuntu/RedHat) / Framework / AWS / DevOps/ Jenkins |
 </p> 
 
 ## 소개
@@ -29,7 +29,7 @@
 * Java/Kotlin, Swift/Objective-C, TypeScript
 * Spring/Spring-Boot, JAVA/JSP, Javascript
 * Circle CI, Travis CI, Jenkins, DevOps, Git
-* Linux(Ubuntu/RedHat), AWS, Firebase
+* Linux(Ubuntu/RedHat), Framework, AWS, Firebase
 
 ### 협업 툴
 * Slack, JIRA, Asana, Zeplin
