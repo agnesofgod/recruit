@@ -25,8 +25,8 @@
 * 재택근무 가능 
 
 ### 기술 스택
-* Flutter, React-Native, React, Vue
-* Java/Kotlin, Swift/Objective-C, TypeScript
+* Flutter, React-Native, React, Vue, TypeScript
+* Java/Kotlin, Swift/Objective-C
 * Spring/Spring-Boot, JAVA/JSP, Javascript
 * Circle CI, Travis CI, Jenkins, DevOps, Git
 * Linux(Ubuntu/RedHat), Framework, AWS, Firebase
