@@ -40,7 +40,7 @@
 * 문서작성
 
 ### 우대사항
-* Flutter, React-Native, React, Vue 유경험자 우대 
-* 네이티브 개발자(Android/iOS) 우대
-* 프레임워크(Spring/Spring-Boot/React-Navive/Flutter) 설계 유경험자 우대
-* 자격증 소지자 (정보처리기사및 정보보안관련 자격증)
+* Flutter, React-Native, React, Vue 경력자 
+* 네이티브 개발자(Android/iOS) 경력자
+* 프레임워크(Spring/Spring-Boot/React-Navive/Flutter) 설계 경력자
+* 자격증 소지자 (정보처리기사 또는 정보보안관련 자격증)
