@@ -7,7 +7,7 @@
 | ----------- | --------------------------------------- | ----------------------------------------------------- |
 | 응용개발팀     | 프론트엔드 개발자                            | Flutter, React-Native, React, Vue     |
 |             | 백엔드 개발자                               | Spring/Spring-Boot, JAVA/JSP |
-| 기반기술팀     | 시스템 개발자                               | Linux(Ubuntu/RedHat), Framework, AWS, DevOps, Jenkins |
+| 기반기술팀     | 시스템 개발자                               | Linux(Ubuntu/RedHat), Framework, AWS, CI/CD |
 </p> 
 
 ## 소개
@@ -35,10 +35,12 @@
 * Slack, JIRA, Asana, Zeplin
 
 ## 개발자 공통 요건
+* 전산/컴퓨터공학 전공자
+* 커뮤니케이션 능력
+* 문서작성
 
 ### 우대사항
 * Flutter, React-Native, React, Vue 유경험자 우대 
 * 네이티브 개발자(Android/iOS) 우대
 * 프레임워크(Spring/Spring-Boot/React-Navive/Flutter) 설계 유경험자 우대
-* 전산/컴퓨터공학 전공자 우대
-
+* 자격증 소지자 (정보처리기사및 정보보안관련 자격증)
