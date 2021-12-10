@@ -6,7 +6,7 @@
 | 팀          | 파트 소개                                  | 모집 공고                                               |
 | ----------- | --------------------------------------- | ----------------------------------------------------- |
 | 응용개발팀     | 프론트엔드 개발자                            | Flutter, React-Native, React, Vue     |
-|             | 백엔드 개발자                               | Spring/Spring-Boot, JAVA/JSP |
+|             | 백엔드 개발자                               | Spring/Spring-Boot, JAVA/JSP, AWS Lambda, Firebase |
 | 기반기술팀     | 시스템 개발자                               | Linux(Ubuntu/RedHat), Framework, AWS, CI/CD |
 </p> 
 
