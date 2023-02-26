@@ -8,7 +8,6 @@
 | 응용개발 1팀   | 크로스플랫폼                            | Flutter, React-Native, AOS, IOS     |
 | 응용개발 2팀   | 웹개발 (프론트엔드/백엔드)                 | React, JAVA/jsp (SpringBoot) |
 | 기반기술팀     | 시스템/네트워크/정보보안                   | UNIX/Linux, Network, Security, Framework, AWS, CI/CD |
-| ----------- | --------------------------------------- | ----------------------------------------------------- |
 | 인공지능연구센터 | AI 솔루션                             | Python, NodeJS, React, JAVA, javascript |
 </p> 
 
@@ -27,14 +26,14 @@
 * 재택근무 가능 
 
 ### 기술 스택
-* Flutter, React-Native, React, Vue, TypeScript
-* Java/Kotlin, Swift/Objective-C
+* Flutter, React-Native, Java/Kotlin, Swift/Objective-C
+* React, Vue, TypeScript, Python
 * Spring/Spring-Boot, JAVA/JSP, Javascript
 * Circle CI, Travis CI, Jenkins, DevOps, Git
-* Linux(Ubuntu/RedHat), Framework, AWS, Firebase
+* UNIX/Linux, Network, Security, Framework, AWS, Firebase
 
 ### 협업 툴
-* Slack, JIRA, Gitlab, Zeplin, Figma
+* Slack, JIRA, Gitlab, Zeplin, Figma, AWS
 
 ## 개발자 공통 요건
 * 전산/컴퓨터공학 전공자 (유사 전공학과 포함)
