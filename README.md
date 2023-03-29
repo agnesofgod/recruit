@@ -44,5 +44,5 @@
 ### 우대사항
 * Flutter, React-Native, React, Vue 경력자 
 * 네이티브 개발자(Android/iOS) 경력자
-* 프레임워크(Spring/Spring-Boot/React-Navive/Flutter) 설계 경력자
+* 프레임워크(Spring/Spring-Boot/React-Native/Flutter) 설계 경력자
 * 자격증 소지자 (정보처리기사 또는 정보보안관련 자격증)
