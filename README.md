@@ -8,7 +8,7 @@
 | 응용개발 1팀   | 크로스플랫폼                            | Flutter, React-Native, AOS, IOS     |
 | 응용개발 2팀   | 웹개발 (프론트엔드/백엔드)                 | React, JAVA/jsp (SpringBoot), JavaScript, TypeScript |
 | 기반기술팀     | 시스템/네트워크/정보보안                   | UNIX/Linux, Network, Security, Framework, AWS, CI/CD |
-| 인공지능연구센터 | AI 솔루션                             | Python, NodeJS, React, JAVA, JavaScript |
+| 인공지능연구센터 | 인공지능 모델링및 솔루션 개발               | Python, NodeJS, React, JAVA, JavaScript, TypeScript |
 | 플랫폼사업팀 | 플랫폼 또는 인공지능기반 SI 사업팀              | Flutter, React, Java/jsp, JavaScript, TypeScript |
 </p> 
 
