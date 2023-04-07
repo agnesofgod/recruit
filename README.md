@@ -9,6 +9,7 @@
 | 응용개발 2팀   | 웹개발 (프론트엔드/백엔드)                 | React, JAVA/jsp (SpringBoot) |
 | 기반기술팀     | 시스템/네트워크/정보보안                   | UNIX/Linux, Network, Security, Framework, AWS, CI/CD |
 | 인공지능연구센터 | AI 솔루션                             | Python, NodeJS, React, JAVA, javascript |
+| 플랫폼사업팀 | 플랫폼 또는 인공지능기반 SI 사업팀              | Flutter, React, Java/jsp |
 </p> 
 
 ## 소개
@@ -26,6 +27,7 @@
 * 14인치+ 맥북 프로 제공
 * 각종 세미나 및 컨퍼런스 참여 지원
 * 재택근무 가능 
+* 플랫폼사업팀은 업무특성상 파견근무
 
 ### 기술 스택
 * Flutter, React-Native, Java/Kotlin, Swift/Objective-C
